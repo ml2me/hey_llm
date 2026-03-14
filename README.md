@@ -17,14 +17,21 @@
 	- Озвучивание книги
 
 В итоге для курса 
-"LLM: От понимания к продукту" 
+"LLM: От понимания к продукту"
+
 https://ods.ai/tracks/llm-atomizing-spring26 
+
 выбран модуль: ...
+
+
 
 А для курса 
 "Natural Language Processing & LLMs course"
+
 https://ods.ai/tracks/nlp-course-spring-2026 
+
 выбран модуль: ...
 
 Папка проекта на гугл диске:
+
 https://drive.google.com/drive/folders/1hQyNlR9drQN5GOKaGtNnWmgBw2LgkLxx?usp=drive_link
